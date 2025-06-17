@@ -1,3 +1,5 @@
+[![MseeP.ai Security Assessment Badge](https://mseep.net/pr/mannaandpoem-openmanus-badge.png)](https://mseep.ai/app/mannaandpoem-openmanus)
+
 <p align="center">
   <img src="assets/logo.jpg" width="200"/>
 </p>
